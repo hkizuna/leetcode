@@ -37,5 +37,4 @@ main (int argc, char **argv)
   printf("%d\n", search_insert(nums, sizeof(nums)/sizeof(int), 5));
   printf("%d\n", search_insert(nums, sizeof(nums)/sizeof(int), 2));
   printf("%d\n", search_insert(nums, sizeof(nums)/sizeof(int), 7));
-  printf("%d\n", search_insert(nums, sizeof(nums)/sizeof(int), 0));
 }
